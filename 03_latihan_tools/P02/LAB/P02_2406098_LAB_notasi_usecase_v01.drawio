@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="XprFEswjA1F68W5tcQTJ">
+    <mxGraphModel dx="1015" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lvpouC-edjNCNXb2J28a-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=230;height=50;" value="sistem laboratorium." vertex="1">
+          <mxGeometry height="430" width="430" x="140" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lvpouC-edjNCNXb2J28a-6" parent="lvpouC-edjNCNXb2J28a-1" style="ellipse;" value="kelola jadwal&#xa; kuliah" vertex="1">
+          <mxGeometry height="45" width="90" x="70" y="192.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lvpouC-edjNCNXb2J28a-2" parent="lvpouC-edjNCNXb2J28a-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="10" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="lvpouC-edjNCNXb2J28a-9" edge="1" parent="lvpouC-edjNCNXb2J28a-1" source="lvpouC-edjNCNXb2J28a-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="lvpouC-edjNCNXb2J28a-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lvpouC-edjNCNXb2J28a-15" parent="lvpouC-edjNCNXb2J28a-1" style="rounded=0;whiteSpace=wrap;html=1;" value="lihat jadwal&lt;div&gt;kuliah&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52.5" width="100" x="210" y="188.75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

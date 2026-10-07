@@ -19,6 +19,8 @@ Kelas   : Informatika C
 
 - ⚡ Fun fact **Debugging is just another way of learning.**
 
+- 📫 Pertemuan2 **UNIFIED MODELLING LANGUAGE (UML)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/2406098-naza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="2406098-naza" height="30" width="40" /></a>
