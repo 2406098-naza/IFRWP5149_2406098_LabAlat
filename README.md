@@ -19,7 +19,7 @@ Kelas   : Informatika C
 
 - ⚡ Fun fact **Debugging is just another way of learning.**
 
-- 📫 Pertemuan2 **UNIFIED MODELLING LANGUAGE (UML)**
+- 📫 Pertemuan3 **USECASE DIAGRAM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
