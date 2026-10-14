@@ -19,7 +19,7 @@ Kelas   : Informatika C
 
 - ⚡ Fun fact **Debugging is just another way of learning.**
 
-- 📫 Pertemuan3 **USECASE DIAGRAM**
+- 📫 Pertemuan3 **Pertemuan 3 USE CASE DIAGRAM DAN USE CASE DESCRIPTION**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
