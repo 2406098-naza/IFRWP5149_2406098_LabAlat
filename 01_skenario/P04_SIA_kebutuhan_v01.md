@@ -41,3 +41,14 @@ SIA-UC10            Kelola Data Mahasiswa   Admin Akademik              SIA-R10,
 SIA-UC11            Tambah Data Mahasiswa   Admin Akademik              SIA-R11                 Baru
 SIA-UC12            Ubah Data Mahasiswa     Admin Akademik              SIA-R11                 Baru
 SIA-UC13            Hapus Data Mahasiswa    Admin Akademik              SIA-R11                 Baru
+
+<!-- Generalization USecase  -->
+SIA-UC11 Tambah Data Mahasiswa: menghasilkan data mahasiswa baru yang tersimpan.
+SIA-UC12 Ubah Data Mahasiswa: menghasilkan perubahan data mahasiswa yang sudah ada.
+SIA-UC13 Hapus Data Mahasiswa: menghapus data mahasiswa hanya jika tidak memiliki data akademik aktif.
+
+<!-- Collaboration -->
+ID Collaboration            Nama collaboration          Use case yang direalisasikan
+SIA-CO01                    Input Nilai Mata Kuliah     SIA-UC08 Input Nilai Mata Kuliah
+SIA-CO02                    Lihat KHS                   SIA-UC09 Lihat KHS
+
